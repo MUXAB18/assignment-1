@@ -1,1 +1,2 @@
-
+cat_dog_hog_pipeline.pkl filter=lfs diff=lfs merge=lfs -text
+cat_dog_hog_pipeline.pkl.gz filter=lfs diff=lfs merge=lfs -text

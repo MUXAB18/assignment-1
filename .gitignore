@@ -6,6 +6,6 @@ __pycache__/
 Assignment 1.code-workspace
 .git-lfs-bin/
 
-# Large files (exceed GitHub's 100MB limit)
-cat_dog_hog_pipeline.pkl
-cat_dog_hog_pipeline.pkl.gz
+# Large files tracked via Git LFS
+# cat_dog_hog_pipeline.pkl
+# cat_dog_hog_pipeline.pkl.gz
