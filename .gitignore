@@ -1,0 +1,11 @@
+.venv/
+uploads/
+__pycache__/
+.DS_Store
+.vscode/
+Assignment 1.code-workspace
+.git-lfs-bin/
+
+# Large files (exceed GitHub's 100MB limit)
+cat_dog_hog_pipeline.pkl
+cat_dog_hog_pipeline.pkl.gz
