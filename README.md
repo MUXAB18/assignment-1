@@ -27,6 +27,21 @@
 
 <div align="center">
 
+### 🖥️ User Interface Screenshots
+
+> **Note**: Screenshots show the modern PetPulse interface with advanced AI classification
+
+**Main Interface:**
+- Clean, dark theme with "Intelligent Species Analysis"
+- PetPulse v3.5 branding
+- Professional neural architecture deployment messaging
+
+**Results Interface:**
+- Real-time classification with confidence percentages
+- Canine Architecture: 71.16% vs Feline Architecture: 28.84%
+- HOG Feature Mapping analysis with detailed technical insights
+- Analysis complete with latency metrics (0.0246s)
+
 ### Upload → Analyze → Results
 
 | Step 1: Upload Image | Step 2: AI Processing | Step 3: Get Results |
