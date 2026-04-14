@@ -27,20 +27,15 @@
 
 <div align="center">
 
-### 🖥️ User Interface Screenshots
+### 🖥️ User Interface
 
-> **Note**: Screenshots show the modern PetPulse interface with advanced AI classification
+![Main Interface](images/ui-main.png)
+*Clean, modern interface with "Intelligent Species Analysis" - PetPulse v3.5*
 
-**Main Interface:**
-- Clean, dark theme with "Intelligent Species Analysis"
-- PetPulse v3.5 branding
-- Professional neural architecture deployment messaging
+### 📊 Prediction Results
 
-**Results Interface:**
-- Real-time classification with confidence percentages
-- Canine Architecture: 71.16% vs Feline Architecture: 28.84%
-- HOG Feature Mapping analysis with detailed technical insights
-- Analysis complete with latency metrics (0.0246s)
+![Dog Classification Results](images/ui-dog-results.png)
+*Dog classification results showing 71.16% Canine Architecture confidence with detailed HOG feature analysis*
 
 ### Upload → Analyze → Results
 
