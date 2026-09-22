@@ -251,7 +251,7 @@ Having issues? We're here to help!
 
 - 🐛 **Bug Reports**: [Open an issue](https://github.com/musab-18/assignment-1/issues)
 - 💡 **Feature Requests**: [Start a discussion](https://github.com/musab-18/assignment-1/discussions)
-- 📧 **Email**: [Contact maintainer](mailto:your-email@example.com)
+- 📧 **Email**: [Contact maintainer](musabiftikhar44@gmail.com)
 
 ---
 
