@@ -46,7 +46,7 @@
 
 </div>
 
-## 🚀 Quick Start
+## 🚀 Quick Start Guide
 
 ```bash
 # Clone the repository
