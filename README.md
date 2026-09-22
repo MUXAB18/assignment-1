@@ -259,6 +259,6 @@ Having issues? We're here to help!
 
 **⭐ Star this repository if you found it helpful!**
 
-Made with ❤️ by [Musab](https://github.com/musab-18)
+Design and Develop with ❤️ by [Musab](https://github.com/musab-18)
 
 </div>
